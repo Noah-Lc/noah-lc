@@ -34,11 +34,6 @@
       <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=noah-lc&langs_count=6&theme=gruvbox&layout=compact&hide_border=true" alt="noah-lc :: overall Top Langs " />
     </a>
   </p>
-  <p align="center">
-    <a href="https://github.com/noah-lc/">
-      <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=noah-lc&show_icons=true&theme=gruvbox&hide_border=true" />
-    </a>
-  </p>
 </div>
 <br />
 <div>
